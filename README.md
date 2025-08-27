@@ -57,18 +57,24 @@
 
 ### 📈 GitHub at a glance
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nafiudanlawal&show_icons=true&hide=stars&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafiudanlawal&show_icons=true&hide=stars&include_all_commits=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiudanlawal" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nafiudanlawal&theme=radical&border_radius=5" alt="GitHub Streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiudanlawal&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiudanlawal&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+### 📊 GitLab
+![GitLab Account](https://gitlab.com/nafiudanlawal)
 ---
 
 ### 📫 Contact
 - 📍 Netherlands  
 - 📧 **nafiudanlawal@gmail.com**  
-- 🔗 **linkedin.com/in/nafiudanlawal**
+- 🔗 <a href="linkedin.com/in/nafiudanlawal">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/>
+  </a>
