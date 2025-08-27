@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**nafiudanlawal/nafiudanlawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi, I'm Nafiu Lawal 👋</h1>
 <p align="center">
   Software Engineer • Building scalable APIs & event-driven systems
@@ -50,11 +33,12 @@ Here are some ideas to get you started:
 ### 🏗️ Selected Projects
 - **MonitorMyRehab** — Telerehabilitation platform  
   *Stack:* React, NestJS, AWS, MongoDB  
-  *Highlights:* Payments integration, API performance optimization, containerized deployments
+  *Highlights:* Payments integration, API performance optimization, containerized deployments, AWS serverless, fullstack application
+  *link* <a href="monitormyrehab.com"> live project</a>
 
-<!-- Optionally add repo links when public:
-- [Repo 1](https://github.com/<your-github-username>/<repo>)
--->
+- **JobScan** -- Job web scrapper 
+  *Stack* Python, Fiber Go, AWS, PostgreSQL
+  [Repo] (https://github.com/nafiudanlawal/jobscan)
 
 ---
 
@@ -72,15 +56,14 @@ Here are some ideas to get you started:
 ---
 
 ### 📈 GitHub at a glance
-<!-- Replace <your-github-username> with your actual username -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&hide=stars&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafiudanlawal&show_icons=true&hide=stars&include_all_commits=true" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiudanlawal" alt="GitHub Streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiudanlawal&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -89,10 +72,3 @@ Here are some ideas to get you started:
 - 📍 Netherlands  
 - 📧 **nafiudanlawal@gmail.com**  
 - 🔗 **linkedin.com/in/nafiudanlawal**
-
-<!--
-Tips:
-- Keep pinned repos aligned with the stack above.
-- Add concise READMEs to project repos (problem → approach → stack → results/metrics).
-- Consider a small public demo repo showing: a NestJS service, infra-as-code snippet, and CI pipeline.
--->
