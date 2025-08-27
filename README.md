@@ -69,12 +69,14 @@
 ---
 
 ### 📊 GitLab
-![GitLab Account](https://gitlab.com/nafiudanlawal)
+[GitLab Account](https://gitlab.com/nafiudanlawal)
 ---
 
 ### 📫 Contact
 - 📍 Netherlands  
-- 📧 **nafiudanlawal@gmail.com**  
-- 🔗 <a href="linkedin.com/in/nafiudanlawal">
+- 📧 🔗 **nafiudanlawal@gmail.com**  
+<p>
+  <a href="linkedin.com/in/nafiudanlawal">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/>
   </a>
+</p>
