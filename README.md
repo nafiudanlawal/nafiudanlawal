@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <!-- Stack/Technolgies below --> 
+  <!-- Stack/Technologies below --> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
@@ -71,11 +71,14 @@
 
 ---
 
-### 🎓 Education & Certs
+### 🎓 Education
 - **MSc, Information Technology** — Carnegie Mellon University (May 2023)  
-- **BSc, Computer Science** — University of Ghana (May 2018)  
-- **Certifications:** ISC2 Certified in Cybersecurity • AWS Certified SysOps Administrator – Associate
+- **BSc, Computer Science** — University of Ghana (May 2018)
 
+## Certifications 🗝️
+- AWS Certified Solutions Architect – Associate
+- AWS Certified SysOps Administrator – Associate
+- ISC2 Certified in Cybersecurity
 ---
 
 ### 📝 Publication
