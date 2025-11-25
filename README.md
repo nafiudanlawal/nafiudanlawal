@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nafiu Lawal 👋</h1>
 <p align="center">
-  Software Engineer • Building scalable APIs & event-driven systems
+  Software Engineer • Open Source Contributor • Building scalable APIs & event-driven systems
 </p>
 
 <p align="center">
@@ -84,7 +84,9 @@
 ### 📝 Publication
 - *Digital Public Goods Interoperability: A Low-Code Middleware Approach.*  
   In Proceedings of ACM SIGCAS/SIGCHI COMPASS ’23
-
+---
+### 📝 Open-Source
+- FreecodeCamp
 ---
 
 ### 📈 GitHub at a glance
